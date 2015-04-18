@@ -1,0 +1,3 @@
+[submodule "repos/dotfiles-vim"]
+	path = repos/dotfiles-vim
+	url = git@bitbucket.org:brynbellomy/dotfiles-vim.git
